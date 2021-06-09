@@ -106,7 +106,7 @@ public class CardService {
         }
       }
     }
-    // console.log('selected card',selectedCard," ",totalCardInDeck())
+    
     return selectedCard;
   }
 
